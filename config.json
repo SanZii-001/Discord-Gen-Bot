@@ -1,25 +1,24 @@
-{
-    "bot_token": "bot_token",
-    "owner_id": 1234567891011121134,
-    "server_id": 1234567891011121134,
+
+    "owner_id": 1045170928004382780,
+    "server_id": 1275335735158898688,
     "bot_status": "discord.gg/nexustools",
     "free_gen": {
-        "free_gen_role": 1234567891011121134,
-        "free_gen_channel": 1234567891011121134,
+        "free_gen_role": 1275335735158898690,
+        "free_gen_channel": 1275856891964297328,
         "free_gen_status": "discord.gg/nexustools",
         "status_log_channel": 1234567891011121134,
         "free_gen_cooldown": 120,
         "free_gen_folder": "stocks/stock"
     },
     "boost_gen": {
-        "boost_gen_role": 1234567891011121134,
-        "boost_gen_channel": 1234567891011121134,
+        "boost_gen_role": 1275335735158898690,
+        "boost_gen_channel": 1275857070545178726,
         "boost_gen_cooldown": 60,
         "boost_gen_folder": "stocks/boost_gen_stock"
     },
     "premium_gen": {
-        "premium_gen_role": 1234567891011121134,
-        "premium_gen_channel": 1234567891011121134,
+        "premium_gen_role": 1275335735158898690,
+        "premium_gen_channel": 1275857392692625582,
         "premium_gen_cooldown": 120,
         "premium_gen_folder": "stocks/premium_gen_stock"
     },
